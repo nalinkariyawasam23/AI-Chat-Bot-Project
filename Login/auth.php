@@ -1,5 +1,5 @@
 <?php
-// nalin kariyawasam
+// nalin kariyawasam.
 ?>
 
 <?php
